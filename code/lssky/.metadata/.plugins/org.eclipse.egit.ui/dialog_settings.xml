@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Administrator &lt;Administrator@USER-20170320SR&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Administrator &lt;Administrator@USER-20170320SR&gt;"/>
+	</list>
+	<section name="GitCommitMessageComponent">
+		<list key="D:\lssky\diyichengxu\.git">
+			<item value="false"/>
+			<item value="Administrator &lt;Administrator@USER-20170320SR&gt;"/>
+			<item value="shadh"/>
+			<item value="Administrator &lt;Administrator@USER-20170320SR&gt;"/>
+			<item value="e86400fba5d03390e6c1fb4171db63346327732f"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>

@@ -1,0 +1,15 @@
+package List;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class test {
+
+	public static void main(String[] args) {
+		Employee one =new Employee("ss", "22", "2222.22");
+		List<Employee> list=new ArrayList<>();
+		list.add(one);
+		
+	}
+
+}

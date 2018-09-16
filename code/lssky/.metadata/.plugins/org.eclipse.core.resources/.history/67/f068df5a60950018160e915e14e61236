@@ -1,0 +1,7 @@
+package Phone;
+
+public class CommonHandset extends Handset implements PlayWiring {
+	static void play() {
+		System.out.println("播放音频");
+	}
+}

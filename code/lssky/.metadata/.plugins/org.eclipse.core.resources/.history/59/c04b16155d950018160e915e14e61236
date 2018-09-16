@@ -1,0 +1,7 @@
+package Phone;
+
+public interface PlayWiring {
+		static void play() {
+			System.out.println("播放音频");
+		}
+}

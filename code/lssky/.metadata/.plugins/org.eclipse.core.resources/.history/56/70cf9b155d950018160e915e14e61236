@@ -1,0 +1,7 @@
+package Phone;
+
+public interface TheakPictures {
+		static void takePicture() {
+			System.out.println("咔嚓。。。。拍照成功");
+		}
+}

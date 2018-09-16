@@ -1,0 +1,6 @@
+package Phone;
+
+public class AptitudeHandset extends Handset implements TheakPictures, Network {
+		
+	
+}

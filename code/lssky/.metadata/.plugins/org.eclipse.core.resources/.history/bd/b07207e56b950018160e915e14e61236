@@ -1,0 +1,15 @@
+package List;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class HR {
+	
+	public  HR(Employee employee) {
+		
+	}
+	List<Employee> list=new ArrayList<>();
+	
+		
+		
+}

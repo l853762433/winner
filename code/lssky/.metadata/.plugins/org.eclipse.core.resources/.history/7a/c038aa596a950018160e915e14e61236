@@ -1,0 +1,19 @@
+package List;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class test {
+
+	public static void main(String[] args) {
+		Employee one =new Employee("ss", "22", "2222.22");
+		Employee two =new Employee("kk", "21", "3333.33");
+		Employee three =new Employee("yy", "25", "3333.33");
+		Employee four =new Employee("ll", "26", "2222.22");
+		Employee five =new Employee("zz", "24", "2222.22");
+		List<Employee> list=new ArrayList<>();
+		list.add(one);
+		
+	}
+
+}

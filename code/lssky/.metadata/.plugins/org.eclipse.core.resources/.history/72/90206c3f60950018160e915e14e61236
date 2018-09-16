@@ -1,0 +1,12 @@
+package Phone;
+
+public class AptitudeHandset extends Handset implements TheakPictures, Network {
+		
+	 static void networkConn() {
+			System.out.println("已经开始启动移动网络。。。");
+		}
+	 
+	 static void takePicture() {
+			System.out.println("咔嚓。。。。拍照成功");
+		}
+}

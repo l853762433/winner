@@ -1,0 +1,13 @@
+package List;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class HR {
+	
+	
+	List<Employee> list=new ArrayList<>();
+	
+		
+		
+}
